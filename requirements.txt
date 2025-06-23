@@ -1,8 +1,0 @@
-matplotlib==3.7.1
-numpy==1.24.3
-opencv-python==4.11.0.86
-pandas==1.5.3
-pymavlink==2.4.40
-pyserial==3.5
-tensorflow==2.15.0
-
