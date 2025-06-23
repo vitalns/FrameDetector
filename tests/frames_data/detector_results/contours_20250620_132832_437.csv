@@ -1,0 +1,3 @@
+contour_id,timestamp,shape_type,center_x,center_y,width,height,area
+0,2025-06-20 13:28:32.437330,square,356,398,42,42,1167.0
+1,2025-06-20 13:28:32.437330,square,389,221,52,52,1514.0
