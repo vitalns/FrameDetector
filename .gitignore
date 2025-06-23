@@ -1,39 +1,42 @@
 # Игнорируемые файлы
 .idea/
 venv/
+
 cnn/cnn_data/circle/*.png  # игнорировать все файлы PNG
 cnn/cnn_data/square/*.png  # игнорировать все файлы PNG
 cnn/cnn_data/triangle/*.png  # игнорировать все файлы PNG
 
 # Кроме
-cnn/cnn_data/circle/!0.png
-cnn/cnn_data/circle/!1.png
-cnn/cnn_data/circle/!2.png
-cnn/cnn_data/circle/!3.png
-cnn/cnn_data/circle/!4.png
-cnn/cnn_data/circle/!5.png
-cnn/cnn_data/circle/!6.png
-cnn/cnn_data/circle/!7.png
-cnn/cnn_data/circle/!8.png
-cnn/cnn_data/circle/!9.png
-cnn/cnn_data/circle/![0-2][0-9].png  # Двухзначные (10.png - 19.png)
-cnn/cnn_data/square/*.png!1.png
-cnn/cnn_data/square/*.png!2.png
-cnn/cnn_data/square/*.png!3.png
-cnn/cnn_data/square/*.png!4.png
-cnn/cnn_data/square/*.png!5.png
-cnn/cnn_data/square/*.png!6.png
-cnn/cnn_data/square/*.png!7.png
-cnn/cnn_data/square/*.png!8.png
-cnn/cnn_data/square/*.png!9.png
-cnn/cnn_data/square/*.png![0-2][0-9].png  # Двухзначные (10.png - 19.png)
-cnn/cnn_data/triangle/!1.png
-cnn/cnn_data/triangle/!2.png
-cnn/cnn_data/triangle/!3.png
-cnn/cnn_data/triangle/!4.png
-cnn/cnn_data/triangle/!5.png
-cnn/cnn_data/triangle/!6.png
-cnn/cnn_data/triangle/!7.png
-cnn/cnn_data/triangle/!8.png
-cnn/cnn_data/triangle/!9.png
-cnn/cnn_data/triangle/![0-2][0-9].png  # Двухзначные (10.png - 19.png)
+!cnn/cnn_data/circle/0.png
+!cnn/cnn_data/circle/1.png
+!cnn/cnn_data/circle/2.png
+!cnn/cnn_data/circle/3.png
+!cnn/cnn_data/circle/4.png
+!cnn/cnn_data/circle/5.png
+!cnn/cnn_data/circle/6.png
+!cnn/cnn_data/circle/7.png
+!cnn/cnn_data/circle/8.png
+!cnn/cnn_data/circle/9.png
+!cnn/cnn_data/circle/[0-2][0-9].png  # Двухзначные (10.png - 19.png)
+!cnn/cnn_data/square/0.png
+!cnn/cnn_data/square/1.png
+!cnn/cnn_data/square/2.png
+!cnn/cnn_data/square/3.png
+!cnn/cnn_data/square/4.png
+!cnn/cnn_data/square/5.png
+!cnn/cnn_data/square/6.png
+!cnn/cnn_data/square/7.png
+!cnn/cnn_data/square/8.png
+!cnn/cnn_data/square/9.png
+!cnn/cnn_data/square/[0-2][0-9].png  # Двухзначные (10.png - 19.png)
+!cnn/cnn_data/triangle/0.png
+!cnn/cnn_data/triangle/1.png
+!cnn/cnn_data/triangle/2.png
+!cnn/cnn_data/triangle/3.png
+!cnn/cnn_data/triangle/4.png
+!cnn/cnn_data/triangle/5.png
+!cnn/cnn_data/triangle/6.png
+!cnn/cnn_data/triangle/7.png
+!cnn/cnn_data/triangle/8.png
+!cnn/cnn_data/triangle/9.png
+!cnn/cnn_data/triangle/[0-2][0-9].png  # Двухзначные (10.png - 19.png)
