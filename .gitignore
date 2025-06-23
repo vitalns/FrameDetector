@@ -1,7 +1,12 @@
 # Игнороровать все изображения кроме 0.png - 19.png и
 # validation_set.png, training_convergence.png, train_set.png
 
+# Игнорируемые файлы
+.idea/
+.venv/
 *.png  # игнорировать все файлы PNG
+
+# Кроме
 !train_set.png
 !validation_set.png
 !training_convergence.png
